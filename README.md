@@ -1,4 +1,4 @@
-# WineClassification
+# Wine-Classification
   Several classification algorithms were tested on the wine dataset.
   
 # About
