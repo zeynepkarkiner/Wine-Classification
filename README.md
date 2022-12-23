@@ -2,7 +2,7 @@
   Several classification algorithms were tested on the wine dataset.
   
 # About
-  This is multiclass-classification task. Evaluations and comparisons of the classification algorithms are included in the pdf file.
+  This is a multiclass-classification task. Evaluations and comparisons of the classification algorithms are included in the pdf file.
   
 # Evaluation Metrics
     Accuracy
